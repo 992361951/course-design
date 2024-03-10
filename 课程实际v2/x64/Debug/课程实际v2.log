@@ -1,0 +1,4 @@
+﻿  main.c
+E:\c language\code\课程实际v2\课程实际v2\main.c(37,17): warning C4013: “search”未定义；假设外部返回 int
+E:\c language\code\课程实际v2\课程实际v2\main.c(43,17): warning C4013: “backup”未定义；假设外部返回 int
+  课程实际v2.vcxproj -> E:\c language\code\课程实际v2\x64\Debug\课程实际v2.exe

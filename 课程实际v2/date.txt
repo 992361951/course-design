@@ -1,0 +1,8 @@
+dong-2-741 male 20 6 14 jxj
+dong-3-127 female 20 7 13 jxj
+xi-5-328 male 32 24 8 zdh
+xi-7-668 female 26 19 7 zdh
+dong-5-789 male 20 15 5 jxj
+dong-3-548 female 25 25 0 jsj
+xi-3-548 male 22 22 0 zdh
+dong-7-888 male 20 8 12 jxj
